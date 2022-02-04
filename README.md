@@ -1,5 +1,9 @@
 [![Logo](/logo.png)](https://30secondsofcode.org/python/p/1)
 
+# Hello World
+
+This is a line of text.
+
 # 30 seconds of code
 
 > Short Python code snippets for all your development needs
